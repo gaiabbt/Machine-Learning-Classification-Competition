@@ -1,4 +1,4 @@
-# Supervised Classification (Coursework)
+# Supervised Classification
 
 University coursework (MSc Econometrics / Machine Learning). This assignment builds and compares supervised classifiers on a structured prediction dataset and produces out-of-sample label predictions.
 
